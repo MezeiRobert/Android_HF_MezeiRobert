@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hazi5</string>
+    <string-array name="listItems">
+        <item>Korte</item>
+        <item>Alma</item>
+        <item>Szilva</item>
+        <item>Barack</item>
+        <item>Szolo</item>
+        <item>Banan</item>
+        <item>Ribizli</item>
+        <item>Kiwi</item>
+    </string-array>
+</resources>
